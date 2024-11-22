@@ -1,6 +1,6 @@
 
 body {
-    background-color: #f70303; /* Cor de fundo */
+    background-color: #696464e1; /* Cor de fundo */
     font-family: Verdana, sans-serif; /* Fonte padrão */
     margin: 0; /* Remove margens padrão */
     padding: 0; /* Remove preenchimento padrão */
@@ -13,7 +13,7 @@ header {
 }
 
 nav {
-    background-color: #f70303; /* Fundo */
+    background-color: #696464e1; /* Fundo */
     padding: 10px; /* Preenchimento */
 }
 
