@@ -1,3 +1,4 @@
+
 body {
     background-color: #f70303; /* Cor de fundo */
     font-family: Verdana, sans-serif; /* Fonte padrão */
@@ -6,8 +7,8 @@ body {
 }
 
 header {
-    background-color: #000000; /* Fundo */
-    color: rgb(18, 202, 12); /* Texto */
+    background-color: #210aee; /* Fundo */
+    color: rgb(2, 0, 0); /* Texto */
     padding: 10px; /* Preenchimento */
 }
 
@@ -17,7 +18,7 @@ nav {
 }
 
 nav a {
-    color: rgb(15, 11, 209); /* Texto dos links */
+    color: #010108; /* Texto dos links */
     text-decoration: none; /* Remove sublinhado */
     margin-right: 10px; /* Espaçamento dos links */
 }
