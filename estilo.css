@@ -1,39 +1,39 @@
 /* Estilos básicos e simples */
 body {
-    background-color: #e0e0e0; /* Cor de fundo */
+    background-color: #f70303; /* Cor de fundo */
     font-family: Verdana, sans-serif; /* Fonte padrão */
     margin: 0; /* Remove margens padrão */
     padding: 0; /* Remove preenchimento padrão */
 }
 
 header {
-    background-color: #505050; /* Fundo cinza escuro */
-    color: white; /* Texto branco */
+    background-color: #000000; /* Fundo */
+    color: rgb(18, 202, 12); /* Texto */
     padding: 10px; /* Preenchimento */
 }
 
 nav {
-    background-color: #808080; /* Fundo cinza claro */
+    background-color: #f70303; /* Fundo */
     padding: 10px; /* Preenchimento */
 }
 
 nav a {
-    color: white; /* Texto dos links branco */
+    color: rgb(15, 11, 209); /* Texto dos links */
     text-decoration: none; /* Remove sublinhado */
-    margin-right: 10px; /* Espaçamento entre os links */
+    margin-right: 10px; /* Espaçamento dos links */
 }
 
 section {
-    margin: 20px; /* Margem em volta das seções */
+    margin: 20px; /* Margem das seções */
     padding: 10px; /* Preenchimento das seções */
-    background-color: white; /* Fundo branco */
-    border: 1px solid #d0d0d0; /* Borda cinza clara */
+    background-color: white; /* Fundo */
+    border: 1px solid #d0d0d0; /* Borda */
 }
 
 footer {
-    text-align: center; /* Centraliza o texto */
+    text-align: center; /* Centraliza texto */
     padding: 10px; /* Preenchimento */
-    background-color: #505050; /* Fundo cinza escuro */
-    color: white; /* Texto branco */
+    background-color: #505050; /* Fundo */
+    color: white; /* Texto */
     margin-top: 20px; /* Espaçamento acima do rodapé */
 }
